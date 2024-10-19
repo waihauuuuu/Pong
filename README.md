@@ -13,5 +13,5 @@ Pong is  is a classic arcade-style game that simulates table tennis, where two p
 ## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%232F82B3.svg?logo=unity&logoColor=white)
-![TextMeshPro](https://img.shields.io/badge/TextMeshPro-%23FFFFFF.svg?logo=unity&logoColor=white)
+![TextMeshPro](https://img.shields.io/badge/TextMeshPro-%23FFFFFF.svg?logo=unity&logoColor=555555)
 
