@@ -1,4 +1,4 @@
-## 🟡 About Pong
+## 💫 About Pong
 > First UNITY project
 
 Pong is  is a classic arcade-style game that simulates table tennis, where two players control paddles to hit a ball back and forth. The objective is to score points by getting the ball past the opponent's paddle. 
